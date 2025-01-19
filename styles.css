@@ -1,0 +1,9 @@
+.body {
+  width: 100px;
+  height: 60px;
+  float: left;
+}
+
+.body {
+  background-color: rgb(152, 27, 27);
+}
